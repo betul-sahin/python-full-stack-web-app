@@ -1,0 +1,5 @@
+django
+python
+djangorestframework
+django-group-by
+django-crispy-forms
